@@ -55,9 +55,9 @@ header p {
 
 .movie-poster {
     width: 100%;
-    height: auto;
+    height: 400px; /* Altura fixa para todas as imagens */
     display: block;
-    object-fit: cover;
+    object-fit: cover; /* Recorta a imagem para preencher o espaço */
     transition: transform 0.3s ease;
 }
 

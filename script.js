@@ -2,39 +2,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const movies = [
         {
-            title: "Um filme Minecraft",
-            year: 2025,
-            director: "Jared Hess",
-            plot: "Um portal misterioso atrai quatro desajustados para o Overworld, uma terra das maravilhas bizarras e cúbicas que prospera com a imaginação. Para voltar para casa, eles têm que dominar o terreno enquanto embarcam em uma missão mágica com um construtor inesperado chamado Steve.",
-            poster: "img/mine.jpeg"
+            title: "A Cinco Passos de Você",
+           
+           
+            plot: "Stella passa muito tempo no hospital por causa de uma fibrose cística. Lá, ela conhece Will, que sofre da mesma doença. Eles são obrigados a manter distância, mas mesmo assim se apaixonam.",
+            poster: "img/a-cinco-passos-de-voce.jpg"
         },
         {
-            title: "A Noiva Cadáver",
-            year: 2005,
-            director: "Tim Burton e Mike Johnson",
-            plot: "As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a cerimônia, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o que ele pensava ser um tronco de árvore na verdade é o braço esquelético de Emily, uma noiva que foi assassinada depois de fugir com seu amor. Convencida que Victor acabara de lhe pedir a mão em casamento, Emily o leva para o mundo dos mortos, mas ele precisa retornar rapidamente antes que Victoria se case com o malvado Lorde Barkis.",
-            poster: "img/noivacadaver.jpg"
+            title: "Até o Ultimo Homem ",
+            
+            plot: "Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.",
+            poster: "img/ate-o-ultimo-homem.jpg"
         },
         {
-            title: "Supergirl",
-            year: 2015,
-            director: "Greg Berlanti e outros",
-            plot: "A série Supergirl, ambientada no Arrowverso, foca na história de Kara Zor-El, prima do Superman, que após anos escondendo seus poderes, decide se tornar a heroína Supergirl. A série explora sua jornada para abraçar suas habilidades e lutar contra ameaças em National City, enquanto equilibra sua vida pessoal como Kara Danvers. ",
-            poster: "img/supergirl.jpg"
+            title: "Ate que as cores acabem",
+            
+            plot: "Akito só tem mais um ano de vida, mas acaba encontrando um novo propósito ao se apaixonar por uma garota que também enfrenta uma doença terminal. ",
+            poster: "img/ate-que-as-cores-acabem.jpg"
         },
         {
-            title: "O Pescador de Sonhos",
-            year: 2021,
-            director: "João Victor Santos",
-            plot: "Um homem com a rara habilidade de 'pescar' sonhos de outras pessoas precisa enfrentar uma criatura sombria que se alimenta de pesadelos.",
-            poster: "img/pescador_sonhos.jpg"
+            title: "Como eu era antes de você",
+            
+            plot: "De origem modesta e sem grandes aspirações, a peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico.",
+            poster: "img/como-eu-era-antes-de-voce.jpg"
         },
         {
-            title: "Espelhos do Silêncio",
-            year: 2023,
-            director: "Lúcia Martins",
-            plot: "Em uma pequena vila onde todos perderam a voz, uma jovem surda-muda utiliza uma linguagem de sinais ancestral para desvendar um segredo guardado por gerações.",
-            poster: "img/espelhos_silencio.jpg"
+            title: "Para todos os garotos que já amei",
+            
+            plot: "Lara Jean Song Covey escreve cartas de amor secretas para todos os seus antigos paqueras. Um dia, as cartas são misteriosamente enviadas para os destinatários, virando sua vida de cabeça para baixo.",
+            poster: "img/para-todos-os-garotos-que-ja-amei.jpg"
+        
+        }
+
+        {
+            title: "Quatro viodas de um cachorro",
+            
+            plot: "Um cachorro morre e reencarna várias vezes na Terra. Embora encontre novas pessoas e viva muitas aventuras, ele mantém o sonho de reencontrar Ethan, o seu primeiro dono, que sempre foi seu maior amigo.",
+            poster: "img/quatro-vidas-de-um-cachorro.jpg"
         }
     ];
 
